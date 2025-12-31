@@ -1,2 +1,4 @@
 # Bhoomitatva
-Bhoomitatva – a nature-inspired, sustainability-focused website. Fully free, open-source, and lightweight. Created using HTML, CSS, and JavaScript and hosted on GitHub Pages.
+<p>
+Bhoomitatva is a nature-inspired initiative rooted in the values of sustainability, purity, and conscious living...
+</p>
